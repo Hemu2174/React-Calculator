@@ -1,39 +1,12 @@
-# React-Calculator
-A simple, interactive calculator built with React and Vite. This project demonstrates basic arithmetic operations, including addition, subtraction, multiplication, and division, with a clean and responsive user interface.
-## Screenshots
-![Hero Section](screenshots/Main Calculator Interface.png)
-![Product List](screenshots/Performing an Operation.png)
-![Product List](screenshots/Error Handling.png)
-## Features
-- Basic arithmetic operations: +, -, *, /
-- Clear and reset functionality
-- Responsive design for desktop and mobile
-- Built with React for component-based architecture
-- Fast development with Vite
-## Technologies Used
-- React
-- Vite
-- CSS
-## Project Structure
-app/
-├── public/
-│   └── vite.svg
-├── src/
-│   ├── assets/
-│   │   └── react.svg
-│   ├── Components/
-│   ├── App.css
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── README.md
-└── vite.config.js
-## Author
-Hemanth
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
