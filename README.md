@@ -2,9 +2,9 @@
 A simple, interactive calculator built with React and Vite. This project demonstrates basic arithmetic operations, including addition, subtraction, multiplication, and division, with a clean and responsive user interface.
 ## Screenshots
 
-![Hero Section](screenshots/Main Calculator Interface.png)
-![Product List](screenshots/Performing an Operation.png)
-![Product List](screenshots/Error Handling.png)
+![Hero Section](screenshots/MainCalculatorInterface.png)
+![Product List](screenshots/PerforminganOperation.png)
+![Product List](screenshots/Handling.png)
 
 
 ## Features
