@@ -4,7 +4,7 @@ A simple, interactive calculator built with React and Vite. This project demonst
 
 ![Hero Section](screenshots/MainCalculatorInterface.png)
 ![Product List](screenshots/PerforminganOperation.png)
-![Product List](screenshots/Handling.png)
+![Product List](screenshots/ErrorHandling.png)
 
 
 ## Features
